@@ -1,0 +1,2 @@
+Stash command trial
+trial was a success
